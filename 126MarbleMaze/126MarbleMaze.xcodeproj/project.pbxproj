@@ -13,7 +13,7 @@
 		A26B0F1B259800CB002271F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A26B0F1A259800CB002271F2 /* Assets.xcassets */; };
 		A26B0F262598013B002271F2 /* level1.txt in Resources */ = {isa = PBXBuildFile; fileRef = A26B0F252598013B002271F2 /* level1.txt */; };
 		A26B0F2A25989919002271F2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A26B0F2925989919002271F2 /* Main.storyboard */; };
-		A26B0F2E25989BF2002271F2 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = A26B0F2D25989BF2002271F2 /* GameScene.sks */; };
+		A27CF11725A7B4BE0095B072 /* GameScene.sks in Resources */ = {isa = PBXBuildFile; fileRef = A27CF11625A7B4BD0095B072 /* GameScene.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,7 +25,7 @@
 		A26B0F1C259800CB002271F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A26B0F252598013B002271F2 /* level1.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = level1.txt; sourceTree = "<group>"; };
 		A26B0F2925989919002271F2 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
-		A26B0F2D25989BF2002271F2 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; name = GameScene.sks; path = ../../../../../project26/Project26/GameScene.sks; sourceTree = "<group>"; };
+		A27CF11625A7B4BD0095B072 /* GameScene.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = GameScene.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				A26B0F0D259800CA002271F2 /* AppDelegate.swift */,
-				A26B0F2D25989BF2002271F2 /* GameScene.sks */,
+				A27CF11625A7B4BD0095B072 /* GameScene.sks */,
 				A26B0F13259800CA002271F2 /* GameScene.swift */,
 				A26B0F15259800CA002271F2 /* GameViewController.swift */,
 				A26B0F2925989919002271F2 /* Main.storyboard */,
@@ -128,7 +128,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A26B0F2A25989919002271F2 /* Main.storyboard in Resources */,
-				A26B0F2E25989BF2002271F2 /* GameScene.sks in Resources */,
+				A27CF11725A7B4BE0095B072 /* GameScene.sks in Resources */,
 				A26B0F262598013B002271F2 /* level1.txt in Resources */,
 				A26B0F1B259800CB002271F2 /* Assets.xcassets in Resources */,
 			);
